@@ -1,0 +1,10 @@
+* envy
+
+Configuration switcher by an environment variable inspired by Config::ENV.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/envy.git   |
+| commit  | 26a7faa  |
+| systems | envy |
+|---------+-------------------------------------------|
+
